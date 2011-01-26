@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tidy Plug-in
+Bundle-SymbolicName: org.w3c.tidy
+Bundle-Version: 1.0.0
+Bundle-ClassPath: Tidy.jar
+Bundle-Vendor: W3C
+Export-Package: org.w3c.dom,
+ org.w3c.tidy,
+ org.xml.sax

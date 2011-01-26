@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette name="htmlPalette">
+	<category name="htmlBasic" displayName="Basic Html">
+		<item name="head" displayName="Head" icon="head.png" />
+		<item name="link" displayName="Link" icon="page_link.png" />
+		<item name="anchor" displayName="Anchor" icon="anchor.png" />
+		<item name="image" displayName="Image" icon="image.png" />
+		<item name="hyperlink" displayName="Hyperlink" icon="hyperlink.png" />
+		<item name="div" displayName="Div" icon="div.png" />
+		<item name="table" displayName="Table" icon="table.png" />
+		<item name="hr" displayName="Horizontal Line" icon="hr.gif" />
+	</category>
+	<category name="htmlForms" displayName="HTML Forms">
+		<item name="form" displayName="Form" icon="form.png" />
+		<item name="label" displayName="Label" icon="label.png" />
+		<item name="button" displayName="Button" icon="button.png" />
+		<item name="dropdown" displayName="Dropdown" icon="dropdown.png" />
+		<item name="hiddenField" displayName="Hidden Field" icon="hiddenField.png" />
+		<item name="passwordField" displayName="Password Field" icon="passwordField.png" />
+		<item name="checkbox" displayName="Checkbox" icon="checkbox.png" />
+		<item name="checkboxGroup" displayName="Checkbox Group" icon="checkboxGroup.png" />
+		<item name="radioButton" displayName="RadioButton" icon="radioButton.png" />
+		<item name="radioButtonGroup" displayName="RadioButton Group"
+			icon="radioButtonGroup.png" />
+		<item name="textField" displayName="Text Field" icon="textField.png" />
+		<item name="textArea" displayName="Text Area" icon="textArea.png" />
+		<item name="listBox" displayName="List Box" icon="listMenu.png" />
+	</category>
+</palette>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Xulrunner XPCOM Plug-in
+Bundle-SymbolicName: org.mozilla.xulrunner.xpcom
+Bundle-Version: 1.0.0
+Bundle-ClassPath: MozillaGlue-1.9.jar,
+ MozillaInterfaces-1.9.jar
+Bundle-Vendor: MOZILLA
+Export-Package: org.mozilla.interfaces,
+ org.mozilla.xpcom

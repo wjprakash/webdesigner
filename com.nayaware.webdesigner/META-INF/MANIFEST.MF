@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Webdesigner Plug-in
+Bundle-SymbolicName: com.nayaware.webdesigner;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.nayaware.webdesigner.WebDesignerPlugin
+Bundle-Vendor: NAYAWARE.COM
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.mozilla.xulrunner.xpcom;bundle-version="1.0.0",
+ org.eclipse.ui.editors;bundle-version="3.4.0",
+ org.eclipse.ui.ide;bundle-version="3.4.0",
+ org.eclipse.core.resources;bundle-version="3.4.0",
+ org.eclipse.jface.text,
+ org.eclipse.ui.forms,
+ org.eclipse.ui.views;bundle-version="3.3.0",
+ org.w3c.tidy;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
